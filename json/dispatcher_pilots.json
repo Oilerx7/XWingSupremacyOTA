@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Soontir Fel",
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 10,
+    "points": 27,
+    "slots": [
+      "Elite"
+    ],
+    "text": "When performing a primary weapon attack, whenever the target ship is dealt a facedown damage card, immediately flip this card faceup and resolve it.",
+    "faction": "Galactic Empire",
+    "xws": "soontirfel"
+  }
+]
